@@ -116,6 +116,8 @@
 3. Railway خودکار `Procfile` را تشخیص می‌دهد. برای افزودن متغیرهای محیطی، به تب **Variables** بروید و `ADMIN_PASSWORD`، `SECRET_KEY` و `DOMAIN` را با مقادیر مناسب اضافه کنید.
 4. ساخت پروژه به‌طور خودکار آغاز می‌شود و یک دامنه عمومی دریافت می‌کنید.
 
+🗝️ کاربران Railway: رنج آی‌پی Railway را به لیست IP تمیز اضافه کنید تا اسکن دقیق‌تری انجام شود.
+
 </details>
 
 <details>
@@ -231,4 +233,3 @@ V2X طوری ساخته شده که بدون نقص روی ارائه‌دهند
   - [Chart.js](https://www.chartjs.org/)  
   - [aiosqlite](https://github.com/omnilib/aiosqlite)
 * پروژه **[V2Fly](https://www.v2fly.org/)**.
-```
