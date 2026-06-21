@@ -19,8 +19,11 @@
 
 ### 📸 Panel Overview
 <p align="center">
-  <img src="img/sc.jpg" alt="V2X Panel - Screenshot 1" width="45%" />
-  <img src="img/sc2.jpg" alt="V2X Panel - Screenshot 2" width="45%" />
+  <img src="img/sc.jpg" alt="پنل V2X - تصویر ۱" width="70%" />
+</p>
+
+<p align="center">
+  <img src="img/sc2.jpg" alt="پنل V2X - تصویر ۲" width="70%" />
 </p>
 
 </div>
